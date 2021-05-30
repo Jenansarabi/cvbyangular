@@ -1,0 +1,13 @@
+
+.box5 { 
+    display: flex;
+    padding: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    width: 100vh;
+    height: 60vh;
+    border-bottom-left-radius: 25%;
+    
+    background: -webkit-linear-gradient(#e4e6e9de,rgba(76, 79, 248, 0.288));
+}
+
